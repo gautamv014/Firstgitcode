@@ -1,0 +1,7 @@
+//This is second code
+
+class Sample2 {
+  public static void main(string[] ar) [
+    system.out.println("this is the second code"); 
+  }
+}
