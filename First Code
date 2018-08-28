@@ -1,0 +1,9 @@
+
+
+//This is the First code 
+
+class Sample {
+  public static void main(string[] ar) {
+    System.out.println("This is the first code");
+  }
+}
