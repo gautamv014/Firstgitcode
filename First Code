@@ -4,6 +4,7 @@
 
 class Sample {
   public static void main(string[] ar) {
+    System.out.println("Hello");
     System.out.println("This is the first code");
   }
 }
