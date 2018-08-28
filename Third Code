@@ -1,0 +1,7 @@
+//This is third code
+
+class Sample3 {
+  public static void main(String[] ar) {
+    System.out.print("This is third code");
+  }
+}
